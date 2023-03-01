@@ -1,4 +1,4 @@
-# React-Unit2-StrangerThings
+
 # REACT-UI-PATTERN-STRANGERTHINGS
   
   This project was built with React Program, a UI pattern of tabs, and an API  with the theme Stranger things! The most important things for this project was getting the API to pull information in the console and on the page, getting your Tabs to be functional and  the hardest thing, I found was after all that, make sure your data populates inside the tab components you create.
