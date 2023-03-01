@@ -1,0 +1,17 @@
+.backgroundImg{
+    background-image: url("https://i.imgur.com/Aim03ti.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.heading {
+    background-color: rgb(1, 1, 1);
+    color:rgb(101, 0, 0);
+    margin-top: auto;
+    padding: 5px;
+    font-size: 40px;
+}
