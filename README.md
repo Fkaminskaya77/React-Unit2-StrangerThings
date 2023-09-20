@@ -42,3 +42,5 @@ The inspo for the UI Pattern
 Final Product :
  
 <img width="1512" alt="Screenshot 2023-02-23 at 3 31 24 PM" src="https://user-images.githubusercontent.com/117240024/221051924-ee5ee7a4-2f76-4a20-9b79-727613e692c6.png">
+
+Orginial Commit history : https://github.com/Fkaminskaya77/REACT-UI-PATTERN-STRANGERTHINGS
